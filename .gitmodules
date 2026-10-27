@@ -1,0 +1,3 @@
+[submodule "mibs/mib-mikrotik"]
+	path = mibs/mib-mikrotik
+	url = https://github.com/programmi-costantino/mib-mikrotik.git
