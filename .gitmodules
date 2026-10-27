@@ -1,3 +1,6 @@
 [submodule "mibs/mib-mikrotik"]
 	path = mibs/mib-mikrotik
 	url = https://github.com/programmi-costantino/mib-mikrotik.git
+[submodule "mibs/inet-address"]
+	path = mibs/inet-address
+	url = https://github.com/programmi-costantino/mib-inet-address.git
